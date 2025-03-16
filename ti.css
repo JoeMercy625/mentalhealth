@@ -1,0 +1,75 @@
+
+.contenedor {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	padding: 20px;
+}
+
+.imagen {
+	width: 30%;
+}
+
+.imagen img {
+	width: 100%;
+	height: auto;
+	border-radius: 10px;
+}
+
+.texto {
+	width: 55%;
+	padding: 20px;
+}
+
+.texto h1 {
+     font-family: "Playfair Display", sans-serif;
+     font-weight: bold;
+            font-style: italic;
+	font-size: 50px;
+	margin-bottom: 40px;
+   text-align: center;
+}
+
+.texto h2 {
+	font-size: 22px;
+	color: #666;
+	margin-bottom: 20px;
+}
+
+.texto p {
+	font-size: 40px;
+	color: #333;
+   
+     font-family: "Playfair Display", sans-serif;
+  
+}
+
+.texto h2 {
+	font-size: 22px;
+	color: #666;
+	margin-bottom: 20px;
+    	color: pink;
+}
+
+.texto p {
+	font-size: 40px;
+	color: #333;
+   
+     font-family: "Playfair Display", sans-serif;
+  
+}
+
+.texto h2 {
+	font-size: 22px;
+	color: #666;
+	margin-bottom: 20px;
+    	color: navy;
+}
+
+.texto p {
+	font-size: 40px;
+	color: #333;
+   
+     font-family: "Playfair Display", sans-serif;
+  
+}
